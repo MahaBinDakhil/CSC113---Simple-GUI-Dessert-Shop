@@ -49,7 +49,7 @@ Shop data (desserts, quantities, total cost) is stored in a text file, `storeInf
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/KoroNeko0/Simple-GUI-Dessert-Shop.git
+   git clone https://github.com/MahaBinDakhil/Simple-GUI-Dessert-Shop.git
    ```
 2. Open the project in NetBeans (or import the `.java` files into your preferred IDE).
 3. Run `Frame1.java` to launch the application.
